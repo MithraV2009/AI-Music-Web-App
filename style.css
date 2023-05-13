@@ -1,0 +1,17 @@
+.heading{
+    width: 100%;
+    margin: 0px;
+    background-color:rgb(255, 0, 136);
+    color: white;
+}
+.note{
+    color:purple;
+}
+canvas{
+    border:5px solid mediumorchid;
+    border-radius: 20px;
+    margin-top: 0.001px;
+}
+#song{
+    margin-top: 40px;
+}
